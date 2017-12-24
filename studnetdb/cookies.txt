@@ -1,0 +1,18 @@
+# HTTP Cookie File downloaded with cookies.txt by Genuinous @genuinous
+# This file can be used by wget, curl, aria2c and other standard compliant tools.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://is.stuba.sk/auth/lide/clovek.pl?zpet=../lide/index.pl?vzorek=ada,Vyh%C4%BEada%C5%A5=Vyh%C4%BEada%C5%A5,upresneni=aktivni_a_preruseni,upresneni=zamestnanci;id=73879"
+#   2) curl --cookie cookies.txt "https://is.stuba.sk/auth/lide/clovek.pl?zpet=../lide/index.pl?vzorek=ada,Vyh%C4%BEada%C5%A5=Vyh%C4%BEada%C5%A5,upresneni=aktivni_a_preruseni,upresneni=zamestnanci;id=73879"
+#   3) aria2c --load-cookies cookies.txt "https://is.stuba.sk/auth/lide/clovek.pl?zpet=../lide/index.pl?vzorek=ada,Vyh%C4%BEada%C5%A5=Vyh%C4%BEada%C5%A5,upresneni=aktivni_a_preruseni,upresneni=zamestnanci;id=73879"
+#
+www.stuba.sk	FALSE	/	FALSE	0	buxus_stu	3raenrlkc8tgpdp9s36jj2fsg4
+kis.cvt.stuba.sk	FALSE	/	TRUE	0	CSPWSERVERID	hzXRQGpe
+www.mtf.stuba.sk	FALSE	/	FALSE	0	buxus_stu_mtf	adbeeagm4dekv99b3ipg02u7u6
+www.stuba.sk	FALSE	/	FALSE	1563781391	__atuvc	0%7C25%2C0%7C26%2C0%7C27%2C0%7C28%2C1%7C29
+www.mtf.stuba.sk	FALSE	/	FALSE	1568452441	__atuvc	0%7C33%2C0%7C34%2C0%7C35%2C0%7C36%2C4%7C37
+webmail.stuba.sk	FALSE	/	FALSE	0	newMessageCount	0
+webmail.stuba.sk	FALSE	/	FALSE	0	clickedFolder	
+webmail.stuba.sk	FALSE	/	FALSE	0	mailboxesVisible	1
+.stuba.sk	TRUE	/	FALSE	1571252471	_ga	GA1.2.1121092366.1507465158
+www.stuba.sk	FALSE	/	FALSE	0	buxus_stu_live	ckqeal9b1hf3jum3np67rtjuu3
+is.stuba.sk	FALSE	/	TRUE	0	UISAuth	rPiNYQ2rwU6B7%2FDCy407Kg44kvcP%2B1gRPiAK7mXgcc6Q

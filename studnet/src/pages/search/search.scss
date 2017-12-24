@@ -1,0 +1,12 @@
+page-search {
+    ion-auto-complete {
+        width: 100%;
+      }
+      .searchbar-ios {
+        background: white !important;
+      }
+      ul {
+        width: 80vw;
+      }
+      /* UL je absolute a nechce sa zarovnať na ion-auto-complete */
+}

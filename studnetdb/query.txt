@@ -1,0 +1,2 @@
+INSERT INTO `studenti` (`id`, `meno`, `registracia`, `email_is`, `email_u`, `email_sukr`, `forma`, `semester`, `rocnik`, `stupen`, `odbor_id`)VALUES 
+

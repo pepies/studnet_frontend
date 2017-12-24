@@ -1,0 +1,8 @@
+{
+  "name": "studnet",
+  "app_id": "d4c62544",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}

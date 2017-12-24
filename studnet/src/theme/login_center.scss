@@ -1,0 +1,22 @@
+ion-grid{
+  height: 90%;
+  align-items: center;
+  justify-content: center;
+}
+ion-icon.btn {
+  zoom: 2.5;
+  cursor: pointer;
+  margin-top: 15px;
+  transition: 0.2s;
+}
+ion-icon.btn:hover {
+    margin-top: 15px;
+    padding-left: 2px;
+}
+ion-icon.btn:focus  {
+  margin-top: 15px;
+  padding-left: 7px;
+}
+button {
+  background-color: white;
+}
